@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TheWholeInternet.AcceptanceTests", "TheWholeInternet.AcceptanceTests\TheWholeInternet.AcceptanceTests.fsproj", "{686E22B3-54AC-46CD-9692-DBA1F325B28C}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "CanopyGettingStarted.AcceptanceTests", "CanopyGettingStarted.AcceptanceTests\CanopyGettingStarted.AcceptanceTests.fsproj", "{CFED85BE-597A-46B4-AE39-7709D8A8E31B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{686E22B3-54AC-46CD-9692-DBA1F325B28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686E22B3-54AC-46CD-9692-DBA1F325B28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686E22B3-54AC-46CD-9692-DBA1F325B28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686E22B3-54AC-46CD-9692-DBA1F325B28C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFED85BE-597A-46B4-AE39-7709D8A8E31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFED85BE-597A-46B4-AE39-7709D8A8E31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFED85BE-597A-46B4-AE39-7709D8A8E31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFED85BE-597A-46B4-AE39-7709D8A8E31B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
